@@ -1,0 +1,11 @@
+{
+    "name": "TrackerStuff",
+    "version": "1.0.0",
+    "description": "Tracking your daily progress",
+    "manifest_version": 3,
+    "author": "Kevin",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Track a Stuff"
+    }
+}
